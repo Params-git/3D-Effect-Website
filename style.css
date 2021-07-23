@@ -7,7 +7,7 @@ body{
     overflow-x: hidden;
 }
 .header .content-box{
-    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(/images/banner.jpeg);
+    background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)), url(images/banner.jpeg);
     background-position: center;
     background-size: cover;
     width: 100%;
